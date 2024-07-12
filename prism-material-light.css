@@ -208,7 +208,7 @@ pre[class*="language-"] {
 
 
 
-@media(prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
 
     code[class*="language-"],
     pre[class*="language-"] {
