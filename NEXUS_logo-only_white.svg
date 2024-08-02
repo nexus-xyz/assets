@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 433.01 500">
+  <defs>
+    <radialGradient id="radial-gradient" cx="197.31" cy="231.5" fx="197.31" fy="231.5" r="219.84" gradientTransform="translate(19.4 17.96)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fff" stop-opacity=".45"/>
+      <stop offset=".69" stop-color="#fff" stop-opacity=".27"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".2"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="194.81" cy="226.51" fx="194.81" fy="226.51" r="185.64" gradientTransform="translate(19.4 17.96)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fff" stop-opacity=".95"/>
+      <stop offset=".21" stop-color="#fff" stop-opacity=".91"/>
+      <stop offset=".74" stop-color="#fff" stop-opacity=".72"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".65"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="194.81" cy="231.5" fx="194.81" fy="231.5" r="219.78" gradientTransform="translate(19.4 17.96)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fff" stop-opacity=".35"/>
+      <stop offset=".63" stop-color="#fff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".15"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-4" cx="192.32" cy="234" fx="192.32" fy="234" r="219.44" gradientTransform="translate(19.4 17.96)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fff" stop-opacity=".95"/>
+      <stop offset=".49" stop-color="#fff" stop-opacity=".71"/>
+      <stop offset=".83" stop-color="#fff" stop-opacity=".52"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".45"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-5" cx="194.81" cy="234" fx="194.81" fy="234" r="219.03" gradientTransform="translate(19.4 17.96)" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-color="#fff"/>
+      <stop offset=".52" stop-color="#fff" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".85"/>
+    </radialGradient>
+  </defs>
+  <polygon points="216.51 250 433.01 375 433.01 375 433.01 125 216.51 250" style="fill: url(#radial-gradient);"/>
+  <polygon points="216.51 250 216.51 0 216.51 0 0 125 216.51 250" style="fill: url(#radial-gradient-2);"/>
+  <polygon points=".02 125.01 .02 374.99 216.51 250 216.51 250 216.51 250 .02 125.01" style="fill: #fff;"/>
+  <polygon points="216.51 250 216.51 250 216.51 250 216.51 250 216.51 250 216.51 500 216.51 500 433.01 375 216.51 250" style="fill: url(#radial-gradient-3);"/>
+  <polygon points="216.51 250 216.51 250 433.01 125 433.01 125 216.51 0 216.51 250" style="fill: url(#radial-gradient-4);"/>
+  <polygon points="216.51 500 216.51 250 .02 374.99 .02 374.99 0 375 0 375 216.51 500" style="fill: url(#radial-gradient-5);"/>
+</svg>
