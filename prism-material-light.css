@@ -6,9 +6,9 @@ pre[class*="language-"] {
 	word-break: normal;
 	word-wrap: normal;
 	color: #90a4ae;
-	background: rgba(230, 230, 230, 0.10);
+	background: white;
 	font-family: Roboto Mono, monospace;
-	font-size: 1em;
+	font-size: 14px;
 	line-height: 1.5em;
 
 	-moz-tab-size: 4;
