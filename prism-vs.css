@@ -6,13 +6,13 @@
 code[class*="language-"],
 pre[class*="language-"] {
 	color: #393A34;
-	font-family: "DM Sans", monospace;
+	font-family: "DM Mono", monospace;
 	direction: ltr;
 	text-align: left;
 	white-space: pre;
 	word-spacing: normal;
 	word-break: normal;
-	font-size: .9em;
+	font-size: .95em;
 	line-height: 1.2em;
 
 	-moz-tab-size: 4;
