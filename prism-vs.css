@@ -45,7 +45,7 @@ pre[class*="language-"] {
 	margin: .5em 0;
 	overflow: auto;
 	border: none;
-    box-shadow: 0 0 0 1px rgba(0,0,0,0.1), 0 8px 4px -4px rgba(0,0,0,0.1);
+    box-shadow: 0 0 0 1px rgba(0,0,0,0.1), 0 10px 4px -4px rgba(0,0,0,0.05);
     border-radius: 2px;
 	background-color: white;
 }
